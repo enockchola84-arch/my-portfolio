@@ -1,4 +1,5 @@
-import React, { useEffect, useMemo, useState } from 'react';
+
+import { useEffect, useMemo, useState } from 'react';
 
 // Discipline categories used for filtering case studies and slideshow slides
 type DisciplineFilter =
